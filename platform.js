@@ -1,1 +1,4 @@
-module.exports = {global.process.platform}
+function plat(){
+  return global.process.platform
+}
+module.exports = {plat}
