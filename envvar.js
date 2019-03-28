@@ -1,5 +1,1 @@
-module.exports = {
-  function envvar(){
-    return global.process.env
-  }
-}
+module.exports =  global.process.env
