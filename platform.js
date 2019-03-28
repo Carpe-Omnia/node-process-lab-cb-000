@@ -1,4 +1,4 @@
 function plat(){
-  return global.process.platform
+  return
 }
-module.exports = {plat}
+module.exports = global.process.platform
