@@ -1,1 +1,1 @@
-module.exports = {return global.process.platform}
+module.exports = {global.process.platform}
