@@ -1,5 +1,1 @@
-module.exports = {
-  function version(){
-    return global.process.version
-  }
-}
+module.exports = global.process.version
