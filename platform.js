@@ -1,5 +1,1 @@
-module.exports = {
-  function platform(){
-    return global.process.platform
-  }
-}
+module.exports = {return global.process.platform}
